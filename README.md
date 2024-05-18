@@ -29,7 +29,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roso1nik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roso1nik&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <br />
 
 ![](https://komarev.com/ghpvc/?username=roso1nik)
