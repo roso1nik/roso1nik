@@ -10,11 +10,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roso1nik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roso1nik&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <br />
 
 ![](https://komarev.com/ghpvc/?username=roso1nik)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roso1nik)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roso1nik)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
