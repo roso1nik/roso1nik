@@ -14,8 +14,10 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roso1nik&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <br />
-## My Taplink
-[click](https://rosolnik.netlify.app/)
+
+## My Taplink & Projects & Other information
+https://rosolnik.netlify.app/
+<br />
 
 ![](https://komarev.com/ghpvc/?username=roso1nik)
 
